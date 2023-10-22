@@ -1,15 +1,21 @@
 h1 {color:red;}
   h1 {background-color:#000000;}
   h1 {font-size:50px;}
-h1{text-align:center;}
+  h1{text-align:center;}
 h2{color:rgb(255,255,255);}
   h2{background-color:hsl(120,50%,35%);}
   h2 {font-weight:lighter;}
+  h2{text-decoration: underline;}
 h3{background-color: yellow;}
   h3{font-style:italic;}
+  h3{line-height:2;}
+h3{word-spacing:1em;}
 p{color:hsl(187,100%,40%);}
-p{font-variant:small-caps;}
+  p{font-variant:small-caps;}
 ul{background-color:hsl(327,100%,85%);}
 ol{color:lightgray;}
   ol{background-color:hsl(360,100%,100%)}
 html{background-color:hsla(303, 85%, 34%, 1);}
+em{text-transform:uppercase;}
+strong{text-shadow:1px 1px 1px blue;}
+li{letter-spacing:.18em;}
